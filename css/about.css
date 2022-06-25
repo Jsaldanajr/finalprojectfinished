@@ -1,0 +1,71 @@
+nav {
+    text-align: center;
+    display: inline;
+    list-style: none;
+    color: black;   
+}
+nav li {
+    list-style: none;
+    display: inline;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
+nav ul {
+    text-align: center;
+}   
+nav li a:visited {
+    color: black;
+}
+nav li a:hover {
+    color: grey;
+} 
+nav li a:active {
+    color: rgb(179, 179, 179);
+}
+nav li a:link {
+    color: black;
+}
+footer {
+    /* margin-bottom: 10px; */
+    background-color: aquamarine;
+    font-weight: bold;
+    position: bottom;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    height: 100px;
+    text-align: center;
+    height: 140px;
+}
+footer li {
+    color: black;
+    display: inline;
+    padding: 10px;
+}
+.icons {
+    font-size: 150%;
+}
+section {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.container {
+    height: 500px;
+    width: 100%;
+}
+article {
+    width: 60%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: larger; 
+    margin-top: 30px;   
+}
+.map {
+    text-align: center;
+}

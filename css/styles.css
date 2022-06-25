@@ -1,0 +1,59 @@
+body {
+    background-image: url(/dayeightrepo/final-project/img/95159999_114272196927296_9028814171579351040_n.jpg);
+    background-size: 120%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+nav {
+    text-align: center;
+    display: inline;
+    list-style: none;
+    color: black;   
+}
+nav li {
+    list-style: none;
+    display: inline;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
+nav ul {
+    text-align: center;
+}   
+nav li a:visited {
+    color: black;
+}
+nav li a:hover {
+    color: grey;
+} 
+nav li a:active {
+    color: rgb(179, 179, 179);
+}
+nav li a:link {
+    color: black;
+}
+footer {
+    margin-bottom: 10px;
+    background-color: aquamarine;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    height: 100px;
+    text-align: center;
+    height: 150px;
+}
+footer li {
+    color: black;
+    display: inline;
+    padding: 10px;
+}
+.icons {
+    font-size: 150%;
+}
+section {
+    text-align: center;
+}
